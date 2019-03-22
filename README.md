@@ -1,7 +1,21 @@
 # MissionJelly
-	2D platform game. 
-	Use:
-	<- and -> to move
-	Z to get some speed
-	SPACE to jump
-	Be aware of enemies!
+
+2D platform game created in C++.
+
+### Prerequisites
+
+Visual Studio 2017
+
+### Getting Started
+
+>Clone the repository
+
+>Open Mario.vcxproj using Visual Studio
+
+>Press F5
+
+>Read the "Introduction"
+
+>Have fun!
+
+

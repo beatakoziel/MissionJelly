@@ -8,14 +8,14 @@ Visual Studio 2017
 
 ### Getting Started
 
->Clone the repository
+- Clone the repository
 
->Open Mario.vcxproj using Visual Studio
+- Open Mario.vcxproj using Visual Studio
 
->Press F5
+- Press F5
 
->Read the "Introduction"
+- Read the "Introduction"
 
->Have fun!
+- Have fun!
 
 
